@@ -1,4 +1,4 @@
-Show: The Sopranos
+clearShow: The Sopranos
 
 Genre(s): Drama, Crime
 
@@ -1712,6 +1712,3582 @@ Venue name: Tom Lee Park
 Venue location: Memphis, United States
 
 Date: 05/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 04/29/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 04/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 05/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/09/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/10/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/13/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/14/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 05/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Chord Overstreet
+
+Track title: Hold On
+
+Link: https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Drake
+
+Track title: Hold On, We're Going Home
+
+Link: https://open.spotify.com/track/14Rcq31SafFBHNEwXrtR2B
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Jonas Brothers
+
+Track title: Hold On
+
+Link: https://open.spotify.com/track/7BAtaHUQzlOE1LGKIca7RN
+
+************
+
+------------------------------------------------------------
+
+Command line: movie-this the natural
+
+************
+
+Movie title: The Natural
+
+Year released: 1984
+
+IMDB rating: 7.5/10
+
+Rotten Tomatoes rating: 82%
+
+Country: USA
+
+Language: English
+
+Actors: Robert Redford, Robert Duvall, Glenn Close, Kim Basinger
+
+Plot: An unknown comes seemingly out of nowhere to become a legendary player with almost divine talent.
+
+************
+
+------------------------------------------------------------
+
+Command line: movie-this the natural
+
+************
+
+Movie title: The Natural
+
+Year released: 1984
+
+IMDB rating: 7.5/10
+
+Rotten Tomatoes rating: 82%
+
+Country: USA
+
+Language: English
+
+Actors: Robert Redford, Robert Duvall, Glenn Close, Kim Basinger
+
+Plot: An unknown comes seemingly out of nowhere to become a legendary player with almost divine talent.
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 04/29/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 04/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/09/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/10/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/13/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/14/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 05/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 05/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this bruno mars
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Palms Pool & Dayclub
+
+Venue location: Las Vegas, United States
+
+Date: 04/06/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: 76ers Fieldhouse
+
+Venue location: Wilmington, United States
+
+Date: 04/26/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Wells Fargo Arena
+
+Venue location: Des Moines, United States
+
+Date: 05/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Providence Medical Center Amphitheater
+
+Venue location: Bonner Springs, United States
+
+Date: 05/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Tom Lee Park
+
+Venue location: Memphis, United States
+
+Date: 05/05/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Colonial Life Arena
+
+Venue location: Columbia, United States
+
+Date: 05/12/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: 101 E Beach Blvd
+
+Venue location: Gulf Shores, United States
+
+Date: 05/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Hard Rock Stadium
+
+Venue location: Miami Gardens, United States
+
+Date: 05/10/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Metro Metro Festival
+
+Venue location: Montreal, Canada
+
+Date: 05/18/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Gulf Shores, AL
+
+Venue location: Gulf Shores, United States
+
+Date: 05/17/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Gulf Shores, AL
+
+Venue location: Gulf Shores, United States
+
+Date: 05/19/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: El Paso County Coliseum
+
+Venue location: El Paso, United States
+
+Date: 05/21/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Royal Farms Arena
+
+Venue location: Baltimore, United States
+
+Date: 05/24/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Parc del Fòrum
+
+Venue location: Barcelona, Spain
+
+Date: 05/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Primavera Sound Festival
+
+Venue location: Barcelona, Spain
+
+Date: 05/31/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Orange Warsaw Festival
+
+Venue location: Warszawa, Poland
+
+Date: 06/01/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Parklife Festival
+
+Venue location: Manchester, United Kingdom
+
+Date: 06/08/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Heaton Park Manchester
+
+Venue location: Manchester, United Kingdom
+
+Date: 06/09/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Bonnaroo Music and Arts Festival
+
+Venue location: Manchester, United States
+
+Date: 06/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Staples Center
+
+Venue location: Los Angeles, United States
+
+Date: 06/20/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Staples Center
+
+Venue location: Los Angeles, United States
+
+Date: 06/22/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Industriezone Balendijk-Kristalpark
+
+Venue location: Lommel, Belgium
+
+Date: 06/28/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Vestiville
+
+Venue location: Lommel, Belgium
+
+Date: 06/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Roskilde Festival
+
+Venue location: Roskilde, Denmark
+
+Date: 07/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Finsbury Park
+
+Venue location: London, United Kingdom
+
+Date: 07/05/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Wireless Festival
+
+Venue location: Frankfurt, Germany
+
+Date: 07/06/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Marlay Park
+
+Venue location: Dublin, Ireland
+
+Date: 07/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Openair Frauenfeld
+
+Venue location: Frauenfeld, Switzerland
+
+Date: 07/11/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: California Mid-State Fair
+
+Venue location: Paso Robles, United States
+
+Date: 07/20/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: BOK Center
+
+Venue location: Tulsa, United States
+
+Date: 07/23/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Intrust Arena
+
+Venue location: Wichita, United States
+
+Date: 07/24/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Pinnacle Bank Arena
+
+Venue location: Lincoln, United States
+
+Date: 07/26/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Target Center
+
+Venue location: Minneapolis, United States
+
+Date: 07/27/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Bankers Life Fieldhouse
+
+Venue location: Indianapolis, United States
+
+Date: 07/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: John Paul Jones Arena
+
+Venue location: Charlottesville, United States
+
+Date: 07/31/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Downsview Park
+
+Venue location: Toronto, Canada
+
+Date: 08/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Slottsskogen
+
+Venue location: Gothenburg, Sweden
+
+Date: 08/08/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Parrukatu
+
+Venue location: Helsinki, Finland
+
+Date: 08/09/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Cardi B
+
+************
+
+Artist name: Cardi B
+
+Venue name: Papas&Beer
+
+Venue location: Rosarito, Mexico
+
+Date: 08/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Chord Overstreet
+
+Track title: Hold On
+
+Link: https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Drake
+
+Track title: Hold On, We're Going Home
+
+Link: https://open.spotify.com/track/14Rcq31SafFBHNEwXrtR2B
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Jonas Brothers
+
+Track title: Hold On
+
+Link: https://open.spotify.com/track/7BAtaHUQzlOE1LGKIca7RN
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Chord Overstreet
+
+Track title: Hold On
+
+Link: https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Drake
+
+Track title: Hold On, We're Going Home
+
+Link: https://open.spotify.com/track/14Rcq31SafFBHNEwXrtR2B
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Jonas Brothers
+
+Track title: Hold On
+
+Link: https://open.spotify.com/track/7BAtaHUQzlOE1LGKIca7RN
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Chord Overstreet
+
+Track title: Hold On
+
+Link: https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Drake
+
+Track title: Hold On, We're Going Home
+
+Link: https://open.spotify.com/track/14Rcq31SafFBHNEwXrtR2B
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this hold on
+
+************
+
+Artist name: Jonas Brothers
+
+Track title: Hold On
+
+Link: https://open.spotify.com/track/7BAtaHUQzlOE1LGKIca7RN
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Backstreet Boys
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Backstreet Boys
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Anthem Lights
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Backstreet Boys
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Backstreet Boys
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Anthem Lights
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Backstreet Boys
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Backstreet Boys
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Anthem Lights
+
+Track title: I Want It That Way
+
+Link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 04/29/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/09/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/10/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/13/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/14/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 05/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 04/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 05/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 04/29/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 04/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 05/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 05/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/10/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/09/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/14/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Bruno Mars
+
+Venue name: Park Theater
+
+Venue location: Las Vegas, United States
+
+Date: 09/13/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Movie title: The Arrival
+
+Year released: 1996
+
+IMDB rating: 6.3/10
+
+Rotten Tomatoes rating: 64%
+
+Country: USA, Mexico
+
+Language: English
+
+Actors: Charlie Sheen, Lindsay Crouse, Richard Schiff, Shane
+
+Plot: Zane, an astronomer, discovers intelligent alien life. But the aliens are keeping a deadly secret, and will do anything to stop Zane from learning it.
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Movie title: Arrival
+
+Year released: 2016
+
+IMDB rating: 7.9/10
+
+Rotten Tomatoes rating: 94%
+
+Country: USA
+
+Language: English, Russian, Mandarin
+
+Actors: Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg
+
+Plot: A linguist is recruited by the military to communicate with alien lifeforms after twelve mysterious spacecrafts land around the world.
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Rick Astley
+
+Track title: Never Gonna Give You Up
+
+Link: https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Rick Astley
+
+Track title: Never Gonna Give You Up
+
+Link: https://open.spotify.com/track/0FutrWIUM5Mg3434asiwkp
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: The Black Keys
+
+Track title: Never Gonna Give You Up
+
+Link: https://open.spotify.com/track/4qjqO5m5e5vebk9upd7xUU
+
+************
+
+------------------------------------------------------------
+
+Command line: movie-this
+
+************
+
+Movie title: Mr. Nobody
+
+Year released: 2009
+
+IMDB rating: 7.8/10
+
+Rotten Tomatoes rating: 67%
+
+Country: Belgium, Germany, Canada, France, USA, UK
+
+Language: English, Mohawk
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+************
+
+------------------------------------------------------------
+
+Command line: movie-this saw
+
+************
+
+Movie title: Saw
+
+Year released: 2004
+
+IMDB rating: 7.6/10
+
+Rotten Tomatoes rating: 49%
+
+Country: USA
+
+Language: English
+
+Actors: Leigh Whannell, Cary Elwes, Danny Glover, Ken Leung
+
+Plot: Two strangers, who awaken in a room with no recollection of how they got there, soon discover they're pawns in a deadly game perpetrated by a notorious serial killer.
+
+************
+
+------------------------------------------------------------
+
+Command line: movie-this the sound of music
+
+************
+
+Movie title: The Sound of Music
+
+Year released: 1965
+
+IMDB rating: 8.0/10
+
+Rotten Tomatoes rating: 86%
+
+Country: USA
+
+Language: English, German
+
+Actors: Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn
+
+Plot: A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this maroon 5
+
+************
+
+Artist name: Maroon 5
+
+Venue name: Mollenpark
+
+Venue location: Aalborg, Denmark
+
+Date: 06/01/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this maroon 5
+
+************
+
+Artist name: Maroon 5
+
+Venue name: Lanxess Arena
+
+Venue location: Cologne, Germany
+
+Date: 06/03/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this maroon 5
+
+************
+
+Artist name: Maroon 5
+
+Venue name: O2 ARENA
+
+Venue location: Prague, Czech Republic
+
+Date: 06/05/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this maroon 5
+
+************
+
+Artist name: Maroon 5
+
+Venue name: Tauron Arena
+
+Venue location: Kraków, Poland
+
+Date: 06/06/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this maroon 5
+
+************
+
+Artist name: Maroon 5
+
+Venue name: Ziggo Dome
+
+Venue location: Amsterdam, Netherlands
+
+Date: 06/10/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this maroon 5
+
+************
+
+Artist name: Maroon 5
+
+Venue name: AccorHotels Arena
+
+Venue location: Paris, France
+
+Date: 06/11/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this maroon 5
+
+************
+
+Artist name: Maroon 5
+
+Venue name: Curacao North Sea Jazz Festival
+
+Venue location: Curacao, Netherlands Antilles
+
+Date: 08/31/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Fuzz Live Music Bar
+
+Venue location: Athens, Greece
+
+Date: 05/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Babylon
+
+Venue location: Istanbul, Turkey
+
+Date: 05/18/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: All Points East
+
+Venue location: London, United Kingdom
+
+Date: 05/25/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: la Sirene
+
+Venue location: La Rochelle, France
+
+Date: 05/27/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Atabal Biarritz
+
+Venue location: Biarritz, France
+
+Date: 05/28/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Primavera Sound
+
+Venue location: Barcelona, Spain
+
+Date: 05/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: PALOMA - SMAC DE NIMES METROPOLE
+
+Venue location: Nimes, France
+
+Date: 05/31/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Bad Bonn Kilbi
+
+Venue location: Düdingen, Switzerland
+
+Date: 06/01/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: We Love Green Festival
+
+Venue location: Paris, France
+
+Date: 06/02/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Beaches Brew Festival
+
+Venue location: Marina Di Ravenna, Italy
+
+Date: 06/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: NOS Primavera Sound
+
+Venue location: Porto, Portugal
+
+Date: 06/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: The Mann Center for the Performing Arts
+
+Venue location: Philadelphia, United States
+
+Date: 06/11/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Prospect Park Bandshell - RAIN OR SHINE
+
+Venue location: Brooklyn, United States
+
+Date: 06/12/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Prospect Park Bandshell
+
+Venue location: Brooklyn, United States
+
+Date: 06/13/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Bonnaroo Music and Arts Festival
+
+Venue location: Manchester, United States
+
+Date: 06/14/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Coca-Cola Roxy
+
+Venue location: Atlanta, United States
+
+Date: 06/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: The St. Augustine Amphitheatre
+
+Venue location: St. Augustine, United States
+
+Date: 06/17/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: The Anthem
+
+Venue location: Washington, United States
+
+Date: 06/19/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Thompson's Point
+
+Venue location: Portland, United States
+
+Date: 06/20/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Firefly Music Festival
+
+Venue location: Dover, United States
+
+Date: 06/21/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Clusterfest
+
+Venue location: San Francisco, United States
+
+Date: 06/22/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: EXPRESS LIVE!
+
+Venue location: Columbus, United States
+
+Date: 06/24/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Hill Auditorium
+
+Venue location: Ann Arbor, United States
+
+Date: 06/25/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Farm Bureau Insurance Lawn at White River State Park
+
+Venue location: Indianapolis, United States
+
+Date: 06/26/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Square Bayard
+
+Venue location: Charleville Mezieres, France
+
+Date: 08/23/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: End of the Road Festival
+
+Venue location: Dorst, United Kingdom
+
+Date: 08/29/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Once In A Blue Moon Festival
+
+Venue location: Amstelveen, Netherlands
+
+Date: 08/24/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Various Venues
+
+Venue location: Manchester, United Kingdom
+
+Date: 08/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this courtney barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Lollapalooza Berlin
+
+Venue location: Berlin, Germany
+
+Date: 09/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this depreston
+
+************
+
+Artist name: Courtney Barnett
+
+Track title: Depreston
+
+Link: https://open.spotify.com/track/6tCQCy7SCL2xg2QNe2inmd
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this depreston
+
+************
+
+Artist name: Courtney Barnett
+
+Track title: Depreston
+
+Link: https://open.spotify.com/track/66ZvVp8pidoXh77gAllugd
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this depreston
+
+************
+
+Artist name: Depreston
+
+Track title: Neverland
+
+Link: https://open.spotify.com/track/5052SsZWJxflKiLjIslhYz
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Fuzz Live Music Bar
+
+Venue location: Athens, Greece
+
+Date: 05/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Babylon
+
+Venue location: Istanbul, Turkey
+
+Date: 05/18/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Primavera Sound
+
+Venue location: Barcelona, Spain
+
+Date: 05/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: PALOMA - SMAC DE NIMES METROPOLE
+
+Venue location: Nimes, France
+
+Date: 05/31/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Bad Bonn Kilbi
+
+Venue location: Düdingen, Switzerland
+
+Date: 06/01/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: We Love Green Festival
+
+Venue location: Paris, France
+
+Date: 06/02/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Beaches Brew Festival
+
+Venue location: Marina Di Ravenna, Italy
+
+Date: 06/04/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: NOS Primavera Sound
+
+Venue location: Porto, Portugal
+
+Date: 06/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: The Mann Center for the Performing Arts
+
+Venue location: Philadelphia, United States
+
+Date: 06/11/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Prospect Park Bandshell - RAIN OR SHINE
+
+Venue location: Brooklyn, United States
+
+Date: 06/12/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Prospect Park Bandshell
+
+Venue location: Brooklyn, United States
+
+Date: 06/13/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Bonnaroo Music and Arts Festival
+
+Venue location: Manchester, United States
+
+Date: 06/14/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Coca-Cola Roxy
+
+Venue location: Atlanta, United States
+
+Date: 06/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: The St. Augustine Amphitheatre
+
+Venue location: St. Augustine, United States
+
+Date: 06/17/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: The Anthem
+
+Venue location: Washington, United States
+
+Date: 06/19/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Thompson's Point
+
+Venue location: Portland, United States
+
+Date: 06/20/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: la Sirene
+
+Venue location: La Rochelle, France
+
+Date: 05/27/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Clusterfest
+
+Venue location: San Francisco, United States
+
+Date: 06/22/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: EXPRESS LIVE!
+
+Venue location: Columbus, United States
+
+Date: 06/24/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Hill Auditorium
+
+Venue location: Ann Arbor, United States
+
+Date: 06/25/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Farm Bureau Insurance Lawn at White River State Park
+
+Venue location: Indianapolis, United States
+
+Date: 06/26/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Square Bayard
+
+Venue location: Charleville Mezieres, France
+
+Date: 08/23/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Once In A Blue Moon Festival
+
+Venue location: Amstelveen, Netherlands
+
+Date: 08/24/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: All Points East
+
+Venue location: London, United Kingdom
+
+Date: 05/25/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Various Venues
+
+Venue location: Manchester, United Kingdom
+
+Date: 08/30/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Atabal Biarritz
+
+Venue location: Biarritz, France
+
+Date: 05/28/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: End of the Road Festival
+
+Venue location: Dorst, United Kingdom
+
+Date: 08/29/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Firefly Music Festival
+
+Venue location: Dover, United States
+
+Date: 06/21/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Lollapalooza Berlin
+
+Venue location: Berlin, Germany
+
+Date: 09/07/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Fuzz Live Music Bar
+
+Venue location: Athens, Greece
+
+Date: 05/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Atabal Biarritz
+
+Venue location: Biarritz, France
+
+Date: 05/28/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: All Points East
+
+Venue location: London, United Kingdom
+
+Date: 05/25/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: la Sirene
+
+Venue location: La Rochelle, France
+
+Date: 05/27/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Babylon
+
+Venue location: Istanbul, Turkey
+
+Date: 05/18/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Fuzz Live Music Bar
+
+Venue location: Athens, Greece
+
+Date: 05/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Babylon
+
+Venue location: Istanbul, Turkey
+
+Date: 05/18/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: All Points East
+
+Venue location: London, United Kingdom
+
+Date: 05/25/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: la Sirene
+
+Venue location: La Rochelle, France
+
+Date: 05/27/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Atabal Biarritz
+
+Venue location: Biarritz, France
+
+Date: 05/28/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Robben
+
+Track title: School's out for Summer
+
+Link: https://open.spotify.com/track/6SFnqIxKr3P0J8H3eeiqd3
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Various Artists
+
+Track title: School's out for Summer
+
+Link: https://open.spotify.com/track/6QWkiN1WswfIBkBXFc0dAW
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Various Artists
+
+Track title: School's out for Summer
+
+Link: https://open.spotify.com/track/3kjJ4AsAz8eBHZbAlFDEt8
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Pink Floyd
+
+Track title: Another Brick in the Wall, Pt. 2
+
+Link: https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Pink Floyd
+
+Track title: Another Brick in the Wall, Pt. 1
+
+Link: https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Pink Floyd
+
+Track title: Another Brick in the Wall, Pt. 3
+
+Link: https://open.spotify.com/track/5A7eooPKJHtr0UJmatjH4a
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Huey Lewis & The News
+
+Track title: The Power Of Love
+
+Link: https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Céline Dion
+
+Track title: The Power of Love
+
+Link: https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Cat Power
+
+Track title: Sea of Love
+
+Link: https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Fuzz Live Music Bar
+
+Venue location: Athens, Greece
+
+Date: 05/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Babylon
+
+Venue location: Istanbul, Turkey
+
+Date: 05/18/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: All Points East
+
+Venue location: London, United Kingdom
+
+Date: 05/25/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: la Sirene
+
+Venue location: La Rochelle, France
+
+Date: 05/27/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Atabal Biarritz
+
+Venue location: Biarritz, France
+
+Date: 05/28/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this wolf like me
+
+************
+
+Artist name: TV On The Radio
+
+Track title: Wolf Like Me
+
+Link: https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this wolf like me
+
+************
+
+Artist name: Local H
+
+Track title: Wolf Like Me
+
+Link: https://open.spotify.com/track/3N3mn46tu41qqjT5sSqJ29
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this wolf like me
+
+************
+
+Artist name: Lera Lynn
+
+Track title: Wolf Like Me
+
+Link: https://open.spotify.com/track/5qP59rSo0AojaDMe17K2qv
+
+************
+
+------------------------------------------------------------
+
+Command line: movie-this the sound of music
+
+************
+
+Movie title: The Sound of Music
+
+Year released: 1965
+
+IMDB rating: 8.0/10
+
+Rotten Tomatoes rating: 86%
+
+Country: USA
+
+Language: English, German
+
+Actors: Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn
+
+Plot: A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Huey Lewis & The News
+
+Track title: The Power Of Love
+
+Link: https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Céline Dion
+
+Track title: The Power of Love
+
+Link: https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Cat Power
+
+Track title: Sea of Love
+
+Link: https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Fuzz Live Music Bar
+
+Venue location: Athens, Greece
+
+Date: 05/16/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Babylon
+
+Venue location: Istanbul, Turkey
+
+Date: 05/18/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: All Points East
+
+Venue location: London, United Kingdom
+
+Date: 05/25/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: la Sirene
+
+Venue location: La Rochelle, France
+
+Date: 05/27/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: concert-this Courtney Barnett
+
+************
+
+Artist name: Courtney Barnett
+
+Venue name: Atabal Biarritz
+
+Venue location: Biarritz, France
+
+Date: 05/28/2019
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this wolf like me
+
+************
+
+Artist name: TV On The Radio
+
+Track title: Wolf Like Me
+
+Link: https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this wolf like me
+
+************
+
+Artist name: Local H
+
+Track title: Wolf Like Me
+
+Link: https://open.spotify.com/track/3N3mn46tu41qqjT5sSqJ29
+
+************
+
+------------------------------------------------------------
+
+Command line: spotify-this wolf like me
+
+************
+
+Artist name: Lera Lynn
+
+Track title: Wolf Like Me
+
+Link: https://open.spotify.com/track/5qP59rSo0AojaDMe17K2qv
+
+************
+
+------------------------------------------------------------
+
+Command line: movie-this the sound of music
+
+************
+
+Movie title: The Sound of Music
+
+Year released: 1965
+
+IMDB rating: 8.0/10
+
+Rotten Tomatoes rating: 86%
+
+Country: USA
+
+Language: English, German
+
+Actors: Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn
+
+Plot: A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Huey Lewis & The News
+
+Track title: The Power Of Love
+
+Link: https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Céline Dion
+
+Track title: The Power of Love
+
+Link: https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n
+
+************
+
+------------------------------------------------------------
+
+Command line: do-what-it-says
+
+************
+
+Artist name: Cat Power
+
+Track title: Sea of Love
+
+Link: https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8
 
 ************
 
